@@ -23,8 +23,8 @@
 }
 
 #edit_server .pbx-brand-list .pbx.selected {
-	border: 2px solid #22a5ff;
-	color: #22a5ff;
+	border: 2px solid #2b96bd;
+	color: #2b96bd;
 	opacity: 1 !important;
 }
 
@@ -33,7 +33,7 @@
 }
 
 #edit_server .selected-pbx {
-	color: #22a5ff;
+	color: #2b96bd;
 	font-weight: 600;
 		font-size: 15px;
 }
@@ -151,7 +151,7 @@
 }
 
 #edit_server .wizard-content-step .well .well-title {
-	color: #22a5ff;
+	color: #2b96bd;
 	font-size: 36px;
 	line-height: 36px;
 	margin: 0 0 30px 0;
@@ -230,7 +230,7 @@
 }
 
 #edit_server .wizard-content-step .testing-block .configure-line .title > label{
-	color: #22a5ff;
+	color: #2b96bd;
 	font-size: 14px;
 	font-weight: 600;
 	line-height: 40px;
@@ -243,7 +243,7 @@
 }
 
 #edit_server .wizard-content-step .testing-block .testing-step {
-	color: #22a5ff;
+	color: #2b96bd;
 	padding: 7px 0;
 	text-align: center;
 	white-space: nowrap;
@@ -275,7 +275,7 @@
 }
 
 #edit_server .header-step #phone_number_test {
-	color: #22a5ff;
+	color: #2b96bd;
 	font-size: 18px;
 	font-weight: 600;
 }
@@ -366,7 +366,7 @@
 }
 
 .core-content #list_pbxs_navbar #unassigned_numbers #unassigned_numbers_header {
-	background-color:#22a5ff;
+	background-color:#2b96bd;
 	border-radius: 4px 4px 0 0;
 	color: #eee;
 	cursor: pointer;
@@ -520,14 +520,14 @@
 }
 
 .core-content #list_pbxs_navbar .pbx-wrapper:hover .pbx-name, .core-content #list_pbxs_navbar .pbx-wrapper.selected .pbx-name{
-	color: #22a5ff;
+	color: #2b96bd;
 }
 
 .core-content #list_pbxs_navbar .pbx-wrapper .img-wrapper {
 	background: #fff;
 	border: 3px solid #333;
 	border-radius: 4px;
-	color: #22a5ff;
+	color: #2b96bd;
 	font-size: 60px;
 	font-weight: 600;
 	height: 51px;
@@ -542,26 +542,26 @@
 }
 
 .core-content #list_pbxs_navbar .pbx-wrapper:hover .img-wrapper{
-	border: 3px solid #22a5ff;
-	color: #22a5ff;
+	border: 3px solid #2b96bd;
+	color: #2b96bd;
 	cursor: pointer;
 	font-weight: 600;
 	opacity: 1;
 }
 
 .core-content #list_pbxs_navbar .pbx-wrapper.selected .img-wrapper{
-	border: 3px solid #22a5ff;
-	color: #22a5ff;
+	border: 3px solid #2b96bd;
+	color: #2b96bd;
 	font-weight: 600;
 }
 
 
 .core-content .notif-phones {
-	background: #22a5ff;
+	background: #2b96bd;
 	border-radius:50%;
 	width:23px;
 	height:23px;
-	border:2px solid #22a5ff;
+	border:2px solid #2b96bd;
 	z-index: 4;
 	position: relative;
 	top: 20px;
@@ -629,7 +629,7 @@
 }
 
 .core-content #pbx_connector_container #actions_wrapper #count_phones {
-	color: #22a5ff;
+	color: #2b96bd;
 	font-size: 18px;
 	margin: 0 25px 0px 3px;
 }
@@ -883,7 +883,7 @@
 	padding: 8px 11px;
 	width: 60px;
 	text-align: center;
-	color: #22a5ff;
+	color: #2b96bd;
 }
 
 #edit_number .area_code_input::-webkit-input-placeholder {
@@ -930,7 +930,7 @@
 
 #edit_number .content .stats .stat_number {
 	font-size: 26px;
-	color: #22a5ff;
+	color: #2b96bd;
 	font-weight: 600;
 }
 
@@ -1055,7 +1055,7 @@
 }
 
 #port_number .wizard_nav .steps_text li.current {
-	color: #22a5ff;
+	color: #2b96bd;
 }
 
 #port_number .port_help {
@@ -1139,7 +1139,7 @@
 }
 
 #port_number .step_div.first .numbers_example {
-	color: #22a5ff;
+	color: #2b96bd;
 	margin-top: 5px;
 	font-size: 10px;
 	font-weight: 600;
